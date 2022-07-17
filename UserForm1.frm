@@ -21,6 +21,7 @@ Private Sub UserForm_Initialize()
     Dim Ddate As Date
     Dim WB As Workbook
     Dim ws As Worksheet
+    
     Label6.Caption = Now
 
     With ComboBox1
